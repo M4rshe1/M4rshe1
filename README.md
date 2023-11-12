@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://wakatime.com/@M4rshe1">
 <a href="https://wakatime.com/@M4rshe1">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" />
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rshe1&layout=donut&theme=tokyonight" />
 
 [//]: # (</a>)
 
