@@ -18,12 +18,12 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [M4rshe1/mybash](https://github.com/M4rshe1/powershell-profile) - My Powershell profile
+- [M4rshe1/powershell-profile](https://github.com/M4rshe1/powershell-profile) - My Powershell profile
 
 ### 🌱 My latest projects
 
-- [M4rshe1/nord-background](https://github.com/M4rshe1/share-local) - A script to share your local files in an explorer like interface
-- [M4rshe1/Windower](https://github.com/M4rshe1/API-HUB) - An adjustable api endpoint for all your needs
+- [M4rshe1/share-local](https://github.com/M4rshe1/share-local) - A script to share your local files in an explorer like interface
+- [M4rshe1/API-HUB](https://github.com/M4rshe1/API-HUB) - An adjustable api endpoint for all your needs
 
 [//]: # (### 📰 Recent Blog Posts)
 
