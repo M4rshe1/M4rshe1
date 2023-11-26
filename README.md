@@ -29,10 +29,12 @@
 
 - [M4rshe1/powershell-profile](https://github.com/M4rshe1/powershell-profile) - My Powershell profile
 - [M4rshe1/share-local](https://github.com/M4rshe1/share-local) - A script to share your local files in an explorer like interface
+- [M4rshe1/VB_Minesweeper](https://github.com/M4rshe1/vb_minesweeper) - A small Minesweeper game written in Visual Basic
 ### 🌱 My latest projects
 
 - [M4rshe1/share-local](https://github.com/M4rshe1/share-local) - A script to share your local files in an explorer like interface
 - [M4rshe1/API-HUB](https://github.com/M4rshe1/API-HUB) - An adjustable api endpoint for all your needs
+- [M4rshe1/VB_Minesweeper](https://github.com/M4rshe1/vb_minesweeper) - A small Minesweeper game written in Visual Basic
 
 [//]: # (### 📰 Recent Blog Posts)
 
