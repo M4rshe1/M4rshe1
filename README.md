@@ -7,11 +7,17 @@
 </p>
 
 <p align="center">
+<a href="https://wakatime.com/@M4rshe1">
   <img align="center" src="https://wakatime.com/share/@M4rshe1/71c59b61-45c1-482e-a586-ff72e9ad5567.svg" />
+</a>
 </p>
 <p align="center">
+<a href="https://wakatime.com/@M4rshe1">
   <img align="center" width="49%" src="https://wakatime.com/share/@M4rshe1/baf6ac3b-6784-4dd4-88d9-837ade005b42.svg" />
-  <img align="center" width="49%" src="https://wakatime.com/share/@M4rshe1/287d3975-1fc0-4085-8038-1c4440f8428a.svg" />
+</a>
+<a href="https://wakatime.com/@M4rshe1">
+  <img align="center" width="49%" src="https://wakatime.com/share/@M4rshe1/81ba9713-5916-48e2-935c-c99cefd4ecba.svg" />
+</a>
 </p>
 
 
