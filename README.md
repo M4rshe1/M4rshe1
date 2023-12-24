@@ -10,8 +10,8 @@
   <img align="center" src="https://wakatime.com/share/@M4rshe1/71c59b61-45c1-482e-a586-ff72e9ad5567.svg" />
 </p>
 <p align="center">
-  <img align="center" src="https://wakatime.com/share/@M4rshe1/baf6ac3b-6784-4dd4-88d9-837ade005b42.svg" />
-  <img align="center" src="https://wakatime.com/share/@M4rshe1/287d3975-1fc0-4085-8038-1c4440f8428a.svg" />
+  <img align="center" width="49%" src="https://wakatime.com/share/@M4rshe1/baf6ac3b-6784-4dd4-88d9-837ade005b42.svg" />
+  <img align="center" width="49%" src="https://wakatime.com/share/@M4rshe1/287d3975-1fc0-4085-8038-1c4440f8428a.svg" />
 </p>
 
 
