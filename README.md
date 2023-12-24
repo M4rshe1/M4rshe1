@@ -1,19 +1,22 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M4rshe1&show_icons=true&theme=tokyonight" />
-</a></p>
+</p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rshe1&layout=donut&theme=tokyonight" />
+</p>
 
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rshe1&layout=donut&theme=tokyonight" />
-<a href="https://wakatime.com/@M4rshe1">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@M4rshe1/e32afa81-243b-422b-ac9d-4a8bce4402fe.svg" />
-</a>
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@M4rshe1/e32afa81-243b-422b-ac9d-4a8bce4402fe.svg" />
 
+</p>
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@M4rshe1/2cdd953e-a702-4f2c-a310-be4f22e66d59.svg" />
+</p>
 
-<a href="https://wakatime.com/@M4rshe1">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@M4rshe1/c34a9583-59b6-4e97-8e23-768ee1814040.svg" />
-</a>
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@M4rshe1/dd328ad0-8d0e-42d6-88a1-9cf1d1ffb20d.svg" />
-
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@M4rshe1/287d3975-1fc0-4085-8038-1c4440f8428a.svg" />
+</p>
 
 ### 👷 Check out what I'm currently working on
 
