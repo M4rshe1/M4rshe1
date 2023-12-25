@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://wakatime.com/@M4rshe1">
-  <img align="center" src="https://wakatime.com/share/@M4rshe1/71c59b61-45c1-482e-a586-ff72e9ad5567.svg" />
+  <img align="center" src="https://wakatime.com/share/@M4rshe1/71c59b61-45c1-482e-a586-ff72e9ad5567.svg" /> 
 </a>
 </p>
 <p align="center">
