@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Swizerland
 * 🖥️  See my portfolio at [colin.heggli.dev](http://colin.heggli.dev)
 * ✉️  You can contact me at [colin.heggli@gmail.com](mailto:colin.heggli@gmail.com)
-* 🚀  I'm currently working on [a self hosted mailserver](http://github.com/ydfdas1f546g1df/EXCHANGE_2.0)
+* 🚀  I'm currently working on [a React Website with a list of free Streaming Sites](http://github.com/ydfdas1f546g1df/streamSites)
 * 🧠  I'm learning C++
 
 ### Skills
