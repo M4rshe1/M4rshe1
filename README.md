@@ -3,11 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Swizerland
 * 🖥️  See my portfolio at [colin.heggli.dev](http://colin.heggli.dev)
-* 🚀  I'm currently working on [archwin](http://github.com/M4rshe1/archwin)
-* 🧠  I'm learning C
-
-### Projects where I contributed
-* ⏸️ A React Website with a list of free [Streaming Sites](http://github.com/ydfdas1f546g1df/streamSites)
+* 🚀  I'm currently working on [archwin](http://github.com/M4rshe1/windrose)
+* 🧠  I'm learning C and NextJS
 
 ### Skills
 
