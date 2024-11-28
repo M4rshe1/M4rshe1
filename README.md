@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Swizerland
 * 🖥️  See my portfolio at [colin.heggli.dev](http://colin.heggli.dev)
-* 🚀  I'm currently working on [archwin](http://github.com/M4rshe1/windrose)
+* 🚀  I'm currently working on [windrose](http://github.com/M4rshe1/windrose)
 * 🧠  I'm learning C and NextJS
 
 ### Skills
